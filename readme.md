@@ -28,7 +28,7 @@ To execute the code below libraries need to be installed
     Cat-1: go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
     Cat-2: go to bars more than once a month and are under the age of 30 OR
     Cat-3: go to cheap restaurants more than 4 times a month and income is less than 50K.
-![3 different categories](/images/Bar_coupon_acceptance_rate_by_3_cohorts.png')
+![Three different categories](/images/Bar_coupon_acceptance_rate_by_3_cohorts.png)
 ### Deep Dive into Coffee House Coupons
 ***
 ### Acceptance ratio for coffee coupons are higher during rain and also around 10 Am and 2PM compared to any other times.
