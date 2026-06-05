@@ -11,11 +11,8 @@ To execute the code below libraries need to be installed
 2. seaborn 
 3. pandas
 4. numpy
-## Execution
-
-
-# Help
-
+## Summary of Findings
+### 
 # Authors
 Brithiviraj Shanmugam
 # Version History
