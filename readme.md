@@ -12,7 +12,8 @@ To execute the code below libraries need to be installed
 3. pandas
 4. numpy
 ## Summary of Findings
-### 
+### Overall acceptance ratio is 56%
+![Overall coupon acceptance](/images/Coupon_acceptance_rate.png)
 # Authors
 Brithiviraj Shanmugam
 # Version History
